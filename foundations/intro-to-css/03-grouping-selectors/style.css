@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.bigboss ,
+.smallboss {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
+
+.bigboss {
+    background-color:black;
+    color: white;
+}
+
+.smallboss {
+    background-color: yellow;
+}
+
