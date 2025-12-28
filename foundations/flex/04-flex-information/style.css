@@ -39,7 +39,6 @@ body {
   display: flex;
   justify-content: center;
   gap: 52px;
-  list-style-type: none;
 }
 
 .info {
